@@ -71,5 +71,3 @@ Here are some example screenshots of the application:
 - **Prediction Result (Phishing):**  
   ![Phishing Result](./static/phishing_result.png)
 
-
-<div align="center"> <p style="font-size:18px; font-weight:bold;">Developed by</p> <p style="font-size:24px; font-family:cursive; font-weight:bold; color:#ff6347;">Pradeep Bhattarai</p> </div>
